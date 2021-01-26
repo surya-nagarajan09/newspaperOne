@@ -1,0 +1,62 @@
+.line{
+    border-collapse: 100px solid black;
+    border-top: 5px solid black;
+}
+.des{
+    text-align: center;
+    font-size: 2px solid black;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+.left{
+    text-align:left;
+}
+
+.row{
+    text-align: justify;
+}
+.sidehead{
+    text-align: justify
+}
+.darkback{
+    background-color:#C92626;
+    border:1px solid black;
+    font-size: 15px;
+
+}
+.body{
+    background-color:D4D4D4;
+}
+.subhead{
+    font-size:20px;
+}
+.para{
+    text-align:justify;
+    font-size: 20px ;
+
+}
+.red{
+    color:red;
+    
+    font-size: 20px;
+}
+
+.body{
+  margin:10px
+}
+.main{
+    font-size: 100px;
+    word-spacing: 2px;
+    letter-spacing: 10px;
+    text-align: center;
+    margin-left: 500px;
+    
+}
+.heading{
+    font-size:60px;
+    font-weight: bold;
+    letter-spacing: 15px;
+    word-spacing:20 px;
+   text-align:left;
+
+}
